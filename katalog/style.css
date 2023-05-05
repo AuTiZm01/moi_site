@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.conteiner{
+    width: 1200px;
+    height: 2400px;
+    background-color: #1E1F2F;
+}
+.under_cont{
+    width: 1200px;
+    height: 250px;
+    background-color: #252639;
+    display: flex;
+    justify-content: space-between;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 21px;
+    font-family: 'Blinker', sans-serif;
+}
+.logo{
+    padding-left: 17px;
+    padding-top: 13px;
+}
+.lg{
+    color: #FFFF;
+    padding-left: 50px;
+}
+.lgg_n{
+    display: flex;
+    padding-top: 113px;
+}
+.lgg{
+    color: #FFFF;
+}
+.lgg1{
+    color: #FFFF;
+    padding-left: 48px;
+}
+.lgg2{
+    color: #FFFF;
+    padding-left: 48px;
+}
+.btn{
+    display: flex;
+    padding-top: 100px;
+    padding-right: 26px;
+}
+.btn1{
+    width: 150px;
+    height: 50px;
+    color: #FFFF;
+    background: #111111;
+    mix-blend-mode: normal;
+    opacity: 0.4;
+    border: 3px solid #FFFFFF;
+    border-radius: 10px;
+}
+.btn2{
+    margin-left: 25px;
+    width: 150px;
+    height: 50px;
+    color: #000;
+    background: #48C8E1;
+    border-radius: 10px;
+}
+.obz{
+    margin-top: 88px;
+    margin-left: 125px;
+    width: 950px;
+    height: 50px;
+    background: #252639;
+    border-radius: 50px;
+    display: flex;
+    
+    justify-content: space-around;
+}
+.btn_kat{
+    
+    margin-top: 20px;
+    color: #FFFFFF;
+    background: #252639;
+    border: none;
+}
+.new{
+    margin-top: 99px;
+    margin-left: 125px;
+    width: 950px;
+    height: 75px;
+    border-radius: 50px;
+    background: #0066CC;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nw{
+    color: #FFFFFF;
+}
+.pic{
+    padding-top: 63px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.pic1{
+    width: 300px;
+    height: 550px;
+}
+.new1{
+    margin-top: 238px;
+    margin-left: 125px;
+    width: 950px;
+    height: 75px;
+    border-radius: 50px;
+    background: #0066CC;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.under{
+    padding-top: 270px;
+    padding-left: 187px;
+    padding-right: 188px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+}
